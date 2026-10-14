@@ -1,0 +1,16 @@
+.venv/
+.venv1/
+__pycache__/
+.ipynb_checkpoints/
+runs/
+notebooks/Master-Dataset/
+notebooks/Kaggle--Healthy-Strawberry-Leaf-1/
+notebooks/Leaf-Segmentation-1/
+notebooks/lettuce-1/
+notebooks/Pepper-video-1/
+notebooks/Tomato-Crop-1/
+notebooks/Vegetable-Status-1/
+*.pt
+!sera_model_best.pt
+*.jpg
+*.png
